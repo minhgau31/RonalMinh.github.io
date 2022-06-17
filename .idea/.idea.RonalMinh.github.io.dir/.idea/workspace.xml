@@ -12,7 +12,10 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/Game Jam BUV.html" />
       <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/RPG Collab Game.html" />
+      <option value="$PROJECT_DIR$/VR Shooter Game.html" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2AfVJ2Ki8ftGZpEvkEvIkVIHmDz" />
@@ -34,14 +37,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655400554073</updated>
-      <workItem from="1655400565088" duration="312000" />
+      <workItem from="1655400565088" duration="2021000" />
+      <workItem from="1655451277124" duration="7979000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
